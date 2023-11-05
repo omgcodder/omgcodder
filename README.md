@@ -22,6 +22,21 @@
 
 <a  href="https://github.com/OmBharsakle/C-Language/blob/main/1.%20Introduction%20To%20C%20Langugage/Lecture%201%20-%20Lab%20Work/1.c" target="_blank" >→ Click Here Go To Answer.</a>
 
+```bash
+#include<stdio.h>
+main()
+{
+	printf("Name :- Om Bharsakle\n");
+	printf("Std :- 12th/B\n");
+	printf("Mother Name :- Saraswati Bharsakle\n");
+	printf("Father Name :- Dnyaneshwar Bharsakle\n");
+	printf("Brother Name :- Darshan Bharsakle\n");
+	printf("School Name :- M.P Lileeyawala\n");
+	printf("Sir Name :- Akhil Sir\n");
+	printf("Gender :- Male");
+}
+```
+
 ###
 
 <h4 align="left">3. WAP To Print Many Pattern ( A TO Z ).</h4>
