@@ -20,7 +20,7 @@
 
 ###
 
-<a target="_blank" href="https://github.com/OmBharsakle/C-Language/blob/main/1.%20Introduction%20To%20C%20Langugage/Lecture%201%20-%20Lab%20Work/1.c">→ Click Here Go To Answer.</a>
+<a  href="https://github.com/OmBharsakle/C-Language/blob/main/1.%20Introduction%20To%20C%20Langugage/Lecture%201%20-%20Lab%20Work/1.c" target="_blank" >→ Click Here Go To Answer.</a>
 
 ###
 
